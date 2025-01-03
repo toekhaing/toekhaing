@@ -2,21 +2,6 @@
 <h3 align="center">Application Security Specialist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toekhaing" alt="toekhaing" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@toekhaing" target="blank"><img src="https://img.shields.io/twitter/follow/@toekhaing?logo=twitter&style=for-the-badge" alt="toekhaing" /></a> </p>
-
-- 🌱 I’m currently learning **Blockchain & Smart Contract Security**
-
-- 👨‍💻 All of my projects are available at [https://appsecdiary.com/projects](https://appsecdiary.com/projects)
-
-- 📝 I regularly write articles on [https://appsecdiary.com](https://appsecdiary.com)
-
-- 📫 How to reach me **toe.khaingoo@owasp.org**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@toekhaing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@toekhaing" height="30" width="40" /></a>
