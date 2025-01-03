@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Toe Khaing</h1>
-<h3 align="center">Application Security Specialist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toekhaing" alt="toekhaing" /></a> </p>
 <h3 align="left">Connect with me:</h3>
