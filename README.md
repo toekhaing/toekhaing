@@ -12,21 +12,12 @@
 
 </div>
 
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white&color=%233776AB)
-![Django](https://img.shields.io/badge/django-092E20.svg?style=flat&logo=django&logoColor=white&color=%23092E20)
-![Perl](https://img.shields.io/badge/perl-39457E.svg?style=flat&logo=perl&logoColor=white&color=%2339457E)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=flat&logo=linux&logoColor=black&color=%23FCC624)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white&color=%23F05032)
-![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=flat&logo=latex&logoColor=white&color=%23008080)
-![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=black&labelColor=white&color=%234EAA25)
-![OSGeo](https://img.shields.io/badge/osgeo-4CB05B.svg?style=flat&logo=osgeo&logoColor=white&color=%234CB05B)
-
 <div align="center">
   
 ## 💻 Tech Stack 🎯
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
