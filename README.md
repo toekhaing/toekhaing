@@ -22,5 +22,5 @@
 </div>
 
 <p><img width=350 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=toekhaing&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
-<p><img width=4000 src="https://github-readme-stats-salesp07.vercel.app/api?username=toekhaing&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> </p>
+<p><img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=toekhaing&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> </p>
 
