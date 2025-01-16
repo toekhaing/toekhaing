@@ -1,12 +1,8 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Toe Khaing</h1>
-<div>
-<div align="center">  
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toekhaing" alt="toekhaing" /></a> </p>
 </div>
 
 <div align="center">
-  
 ## 🌐 Connect with Me 🤝
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/toekhineoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toekhaingoo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toekhaing) 
