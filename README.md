@@ -11,6 +11,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/toekhineoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toekhaingoo/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/technologyhell) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toekhaing) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technologyhell) 
 
 </div>
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=flat&logo=python&logoColor=white&color=%233776AB)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=flat&logo=django&logoColor=white&color=%23092E20)
 ![Perl](https://img.shields.io/badge/perl-39457E.svg?style=flat&logo=perl&logoColor=white&color=%2339457E)
@@ -19,6 +20,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=flat&logo=latex&logoColor=white&color=%23008080)
 ![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=flat&logo=gnubash&logoColor=black&labelColor=white&color=%234EAA25)
 ![OSGeo](https://img.shields.io/badge/osgeo-4CB05B.svg?style=flat&logo=osgeo&logoColor=white&color=%234CB05B)
+
 <div align="center">
   
 ## 💻 Tech Stack 🎯
