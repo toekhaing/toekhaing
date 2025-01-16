@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Toe Khaing</h1>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toekhaing" alt="toekhaing" /></a> </p>
+<div>
+<div align="center">  
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toekhaing" alt="toekhaing" /></a> </p>
 </div>
 
 <div align="center">
